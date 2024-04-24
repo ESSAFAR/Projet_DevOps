@@ -1,0 +1,23 @@
+"""
+Documentation for string manipulation:
+
+This script demonstrates how to count the number of letters in a string.
+
+Usage:
+1. Assign a string to the variable 'string'.
+2. Run the script.
+
+Example:
+    string = "Hello World"
+    letter_count = len(string)
+    print("Number of letters:", letter_count)
+"""
+
+# The string to be analyzed
+string = "Hello World"
+
+# Count the number of letters in the string
+letter_count = len(string)
+
+# Print the number of letters in the string
+print("
